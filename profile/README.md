@@ -1,8 +1,8 @@
 
 ## Rethinking how APIs work.
 
-Our projects challenge the current API landscape to move to a connected future.  
-More information at our website: https://apioo.de/
+Our projects challenge the current API Landscape to move to a connected future.  
+More information at our [Website](https://apioo.de/) or you can also join our [Discord](https://discord.gg/eMrMgwsc6e).
 
 ### Describe
 
